@@ -5,8 +5,7 @@
 	
 <!-- Trees --> 
  <project path="device/xiaomi/earth" name="XeroMz69/Bumi-Device-Tree" remote="ghubb" revision="elixir" clone-depth="1" />
- <project path="vendor/xiaomi/earth" name="mt6768-dev/proprietary_vendor_xiaomi_earth" remote="ghubb" revision="lineage-21" /> 
- <project path="vendor/aosp" name="Project-Elixir/vendor_aosp" remote="ghubb" revision="lineage-21.0" />
+ <project path="vendor/xiaomi/earth" name="mt6768-dev/proprietary_vendor_xiaomi_earth" remote="ghubb" revision="lineage-21" />
  <project path="kernel/xiaomi/earth" name="XeroMz69/Bumi-Kernel-Tree" remote="ghubb" revision="lineage-21" clone-depth="1" />
  <project path="device/lineage/sepolicy" name="LineageOS/android_device_lineage_sepolicy" remote="ghubb" revision="lineage-21.0" />
 	
