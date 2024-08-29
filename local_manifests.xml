@@ -12,6 +12,6 @@
 	
 <!-- frameworks_base -->
  <remove-project name="frameworks_base" />
- <project path="frameworks/base" name="Miku-UI/platform_frameworks_base" remote="ghubb" revision="Udon_v2" clone-depth="1" />
+ <project path="frameworks/base" name="Project-Elixir/frameworks_base" remote="ghubb" revision="UNO" clone-depth="1" />
 	
 </manifest>
