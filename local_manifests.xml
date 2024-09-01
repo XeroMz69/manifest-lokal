@@ -9,7 +9,7 @@
  <project path="kernel/xiaomi/earth" name="XeroMz69/Bumi-Kernel-Tree" remote="ghubb" revision="lineage-21" clone-depth="1" />
  <project path="device/mediatek/sepolicy_vndr" name="LineageOS/android_device_mediatek_sepolicy_vndr" remote="ghubb" revision="lineage-21" />
  <project path="hardware/mediatek" name="LineageOS/android_hardware_mediatek" remote="ghubb" revision="lineage-21" />
- <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="ghubb" revision="lineage-21" />
+ <project path="hardware/xiaomi" name="DerpFest-Devices/hardware_xiaomi" remote="ghubb" revision="14" />
  <project path="device/lineage/sepolicy" name="LineageOS/android_device_lineage_sepolicy" remote="ghubb" revision="lineage-21.0" />
 
 <!-- frameworks_base -->
