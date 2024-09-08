@@ -11,6 +11,6 @@
 	
 <!-- frameworks_base -->
  <remove-project name="frameworks_base" />
- <project path="frameworks/base" name="CipherOS/android_frameworks_base" remote="ghubb" revision="fourteen-qpr" clone-depth="1" />
+ <project path="frameworks/base" name="CipherOS/android_frameworks_base" remote="ghubb" revision="fifteen" clone-depth="1" />
 	
 </manifest>
