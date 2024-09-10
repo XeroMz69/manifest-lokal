@@ -9,9 +9,9 @@
  <project path="kernel/xiaomi/earth" name="XeroMz69/Bumi-Kernel-Tree" remote="ghubb" revision="lineage-21" clone-depth="1" />
  <project path="device/lineage/sepolicy" name="LineageOS/android_device_lineage_sepolicy" remote="ghubb" revision="lineage-21.0" />
 
- <remove-project name="android_device_mediatek_sepolicy_vndr" />
- <remove-project name="android_hardware_mediatek" />
- <remove-project name="android_hardware_xiaomi" />
+ <remove-project name="device_mediatek_sepolicy_vndr" />
+ <remove-project name="hardware_mediatek" />
+ <remove-project name="hardware_xiaomi" />
  <project path="device/mediatek/sepolicy_vndr" name="Project-Elixir/device_mediatek_sepolicy_vndr" remote="ghubb" revision="UNO" />
  <project path="hardware/mediatek" name="Project-Elixir/hardware_mediatek" remote="ghubb" revision="UNO" />
  <project path="hardware/xiaomi" name="Project-Elixir/hardware_xiaomi" remote="ghubb" revision="UNO" />
