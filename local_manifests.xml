@@ -10,7 +10,7 @@
  <project path="device/lineage/sepolicy" name="LineageOS/android_device_lineage_sepolicy" remote="ghubb" revision="lineage-21.0" />
 	
 <!-- frameworks_base -->
- <!-- remove-project name="frameworks_base" >
- <project path="frameworks/base" name="CipherOS/android_frameworks_base" remote="ghubb" revision="fifteen" clone-depth="1" -->
+ <remove-project name="frameworks_base" />
+ <project path="frameworks/base" name="CipherOS/android_frameworks_base" remote="ghubb" revision="fifteen" clone-depth="1" />
 	
 </manifest>
