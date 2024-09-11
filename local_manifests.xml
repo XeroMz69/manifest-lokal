@@ -11,6 +11,7 @@
  <project path="hardware/mediatek" name="LineageOS/hardware_mediatek" remote="ghubb" revision="lineage-21" />
  <project path="hardware/xiaomi" name="LineageOS/hardware_xiaomi" remote="ghubb" revision="lineage-21" />
  <project path="vendor/lineage" name="LineageOS/android_vendor_lineage" remote="ghubb" revision="lineage-21.0" />
+ <!-- project path="device/lineage/sepolicy" name="LineageOS/android_device_lineage_sepolicy" remote="ghubb" revision="lineage-21.0" /-->
 
 <!-- frameworks_base -->
  <!-- remove-project name="frameworks_base" />
