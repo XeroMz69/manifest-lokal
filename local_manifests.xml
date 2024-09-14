@@ -4,7 +4,7 @@
                 fetch="https://github.com" />
 	
 <!-- Trees --> 
- <project path="device/xiaomi/earth" name="XeroMz69/Bumi-Device-Tree" remote="ghubb" revision="ngising" clone-depth="1" />
+ <project path="device/xiaomi/earth" name="XeroMz69/Bumi-Device-Tree" remote="ghubb" revision="afterlife" clone-depth="1" />
  <project path="vendor/xiaomi/earth" name="mt6768-dev/proprietary_vendor_xiaomi_earth" remote="ghubb" revision="lineage-21" />
  <project path="kernel/xiaomi/earth" name="XeroMz69/Bumi-Kernel-Tree" remote="ghubb" revision="lineage-21" clone-depth="1" />
  <project path="device/mediatek/sepolicy_vndr" name="AfterlifeOS/device_mediatek_sepolicy_vndr" remote="ghubb" revision="lineage-21" />
@@ -14,6 +14,6 @@
  <project path="device/lineage/sepolicy" name="LineageOS/android_device_lineage_sepolicy" remote="ghubb" revision="lineage-21.0" />
 
 <!-- frameworks_base -->
- <remove-project name="android_frameworks_base" />
+ <remove-project name="frameworks_base" />
  <project path="frameworks/base" name="AfterlifeOS/frameworks_base" remote="ghubb" revision="lineage-21.0" clone-depth="1" />
 </manifest>
