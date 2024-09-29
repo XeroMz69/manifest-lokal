@@ -10,7 +10,7 @@
  <project path="device/lineage/sepolicy" name="LineageOS/android_device_lineage_sepolicy" remote="ghubb" revision="lineage-21.0" />
  <project path="device/mediatek/sepolicy_vndr" name="CipherOS/android_device_mediatek_sepolicy_vndr" remote="ghubb" revision="fourteen" />
  <project path="hardware/mediatek" name="CipherOS/android_hardware_mediatek" remote="ghubb" revision="fourteen" />
- <project path="hardware/xiaomi" name="CipherOS/android_hardware_xiaomi" remote="ghubb" revision="thirteen" />
+ <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="ghubb" revision="lineage-21" />
 
 
 <!-- frameworks_base -->
